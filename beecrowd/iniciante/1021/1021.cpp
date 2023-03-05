@@ -3,8 +3,8 @@
 #include <math.h>
 
 float valor, resto;
-int cem=0, cinquenta=0, vinte=0, dez=0, cinco=0, dois=0;
-int um=0, cinquenta_c=0, vinte_e_cinco_c=0, dez_c=0, cinco_c=0, um_c=0;
+int cem=0, cinquenta=0, vinte=0, dez=0, cinco=0, dois=0, um=0;
+int cinquenta_c=0, vinte_e_cinco_c=0, dez_c=0, cinco_c=0, um_c=0;
 
 main(){
     scanf("%f", &valor);   
